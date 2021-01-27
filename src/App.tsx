@@ -1,12 +1,7 @@
-import React from 'react';
+import React from "react"
 
-export { App};
+export { App }
 
 function App() {
-  return (
-    <div>
-      Vox Populi
-    </div>
-  );
+  return <div>Vox Populi</div>
 }
-
